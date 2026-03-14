@@ -1,5 +1,10 @@
 ---
 hide:
- - toc
-description: Every Gamemode in Yeeps: Hide And Seek
+  - toc
+description: Every gamemode in Yeeps
 ---
+<figure markdown="1">
+<div class="grid cards three-grid" markdown>
+- [Classic Hangout ![](../assets/images/gamemodes/hangout.webp){ .recipe-item }](./hangout.md)
+</div>
+</figure>
