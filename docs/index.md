@@ -17,7 +17,7 @@ You can visit these currently completed sections
 <div class="grid cards round-image three-grid" markdown>
 - [**Cooking** ![Picture of a Yeeps Hamburger](assets/images/cooking/hamburger.webp){ width="100" loading=lazy .round-image }](cooking/recipeList.md)
 - [**Brewing** ![Picture of a Yeeps Small Potion](assets/images/brewing/potion.webp){ width="100" loading=lazy .round-image }](brewing/overview.md)
-- [*Gamemodes* ![Picture of the Yeeps Hangout Mode sign, labelled "No Pins Hangout"](assets/images/gamemodes/hangout.webp){ width="100" loading=lazy .round-image }](gamemodes/overview.md)
+- [**Gamemodes** ![Picture of the Yeeps Hangout Mode sign, labelled "No Pins Hangout"](assets/images/gamemodes/hangout.webp){ width="100" loading=lazy .round-image }](gamemodes/overview.md)
 - [**Release Notes** ![Yeeps Barnyard Brawl update release art](assets/images/coverArt/barnyard.webp){ width="150" loading=lazy .round-image }](releaseNotes/overview.md)
 </div>
 
