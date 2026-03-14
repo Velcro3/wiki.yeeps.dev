@@ -15,9 +15,10 @@ This wiki is currently under construction.
 You can visit these currently completed sections
 
 <div class="grid cards round-image three-grid" markdown>
-- [**Cooking** ![](assets/images/cooking/hamburger.webp){ width="100" loading=lazy .round-image }](cooking/recipeList.md)
-- [**Brewing** ![](assets/images/brewing/potion.webp){ width="100" loading=lazy .round-image }](brewing/overview.md)
-- [**Release Notes** ![](assets/images/coverArt/barnyard.webp){ width="150" loading=lazy .round-image }](releaseNotes/overview.md)
+- [**Cooking** ![Picture of a Yeeps Hamburger](assets/images/cooking/hamburger.webp){ width="100" loading=lazy .round-image }](cooking/recipeList.md)
+- [**Brewing** ![Picture of a Yeeps Small Potion](assets/images/brewing/potion.webp){ width="100" loading=lazy .round-image }](brewing/overview.md)
+- [*Gamemodes* ![Picture of the Yeeps Hangout Mode sign, labelled "No Pins Hangout"](assets/images/gamemodes/hangout.webp){ width="100" loading=lazy .round-image }](gamemodes/overview.md)
+- [**Release Notes** ![Yeeps Barnyard Brawl update release art](assets/images/coverArt/barnyard.webp){ width="150" loading=lazy .round-image }](releaseNotes/overview.md)
 </div>
 
 ## Status Overview
@@ -32,7 +33,7 @@ We're still setting things up, so here's a quick look at what's done and what st
 | **Brewing**          | Completed ✅   |
 | **Blocks**           | Not started ❌ |
 | **Mechanics**        | Not started ❌ |
-| **Gamemodes**        | Not started ❌ |
+| **Gamemodes**        | Started ▶️      |
 | **Buttcoin Stashes** | Not started ❌ |
 | **Promocodes**       | Not started ❌ |
 | **Update History**   | Completed ✅   |
