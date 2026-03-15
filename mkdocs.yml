@@ -224,6 +224,7 @@ nav:
   - Gamemodes:
     - Overview: gamemodes/overview.md
     - Classic Hangout: gamemodes/hangout.md
+    - Team Hangout: gamemodes/team-hangout.md
 extra:
   mermaid:
     theme: default
