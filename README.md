@@ -11,7 +11,7 @@ We're still setting things up, so here's a quick look at what's done and what st
 | **Brewing**          | Completed ✅   |
 | **Blocks**           | Not started ❌ |
 | **Mechanics**        | Not started ❌ |
-| **Gamemodes**        | Not started ❌ |
+| **Gamemodes**        | Started ▶️      |
 | **Buttcoin Stashes** | Not started ❌ |
 | **Promocodes**       | Not started ❌ |
 | **Update History**   | Completed ✅   |
