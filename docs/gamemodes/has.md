@@ -6,12 +6,12 @@ description: The Hide & Seek mode in Yeeps
 
 # Hide & Seek
 ![The Hide & Seek sign in Yeeps](../assets/images/gamemodes/has.webp)
-The Hide & Seek mode is the only mode that doesn't need a sign. This sign is optional and was only added in the Research Facility aka Wiring update as a decoration and to catch game events for the Hide And Seek gamemode.
+The Hide & Seek mode is the only mode that doesn't need a sign. This sign is optional and was only added in the Research Facility aka Wiring update as a decoration and to catch game events for the Hide & Seek gamemode.
 ## How to Play
-In Hide and Seek, a random person in the lobby is chosen as the first seeker when the game starts. The Seekers get a red glow. The hiders do not and have to hide.
+In Hide & Seek, a random person in the lobby is chosen as the first seeker when the game starts. The Seekers get a red glow. The hiders do not and have to hide.
 For a Seeker to tag someone, they must throw a pin at them. [^1]
 ## Yeeps 2.0
-In [Yeeps 2.0](../releaseNotes/2.0.md), the mechanics of Hide And Seek were modified.
+In [Yeeps 2.0](../releaseNotes/2.0.md), the mechanics of Hide & Seek were modified.
 Before, hitting a player with a pin instantly tagged them.
 It was changed so that Hiders have 3 lives.
 A headshot takes all 3.
