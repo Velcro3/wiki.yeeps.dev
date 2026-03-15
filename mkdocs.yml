@@ -221,7 +221,9 @@ nav:
     - Preparations Drop: releaseNotes/preparations.md
     - Yeeps 2.0: releaseNotes/2.0.md
     - Boss Update: releaseNotes/boss.md
-
+  - Gamemodes:
+    - Overview: gamemodes/overview.md
+    - Classic Hangout: gamemodes/hangout.md
 extra:
   mermaid:
     theme: default
